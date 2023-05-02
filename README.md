@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anmirza786
 - 👀 I’m interested in Web Frontend Development & Backend Development
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on React as well as Django
 - 📫 How to reach me: Contact me at anmirza37@gmail.com
 
